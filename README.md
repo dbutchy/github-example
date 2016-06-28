@@ -7,3 +7,8 @@ How to Contribute
 =================
 
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
+
+How to Do This and That
+=======================
+
+I did just do that but not this.
